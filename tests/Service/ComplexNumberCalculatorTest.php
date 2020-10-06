@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Tests\Services;
+namespace Tests\Service;
 
 use App\Entity\ComplexNumber;
 use App\Exception\ComplexNumberCalculatorException;
